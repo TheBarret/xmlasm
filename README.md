@@ -1,9 +1,7 @@
 # xmlasm
 Concept (eso) language inspired by XML format
 
-# (CONCEPT) PROJECT XML-ASM (Esolang Specification & Blueprint)
-
-### Concept Architecture
+# Concept Architecture
 
 **Structural Hierarchy:**  
 XML controls scoping, memory allocation (`<table>`), labels, and macros;  
